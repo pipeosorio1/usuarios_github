@@ -1,0 +1,12 @@
+{
+  "name": "usuarios_github",
+  "displayName": "usuarios_github",
+  "expo": {
+    "name": "usuarios_github",
+    "slug": "usuarios_github",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
